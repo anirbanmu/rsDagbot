@@ -1,0 +1,6 @@
+[package]
+name = "rsDagbot"
+version = "0.1.0"
+authors = ["Anirban Mukhopadhyay <anirbanmu@outlook.com>"]
+
+[dependencies]
